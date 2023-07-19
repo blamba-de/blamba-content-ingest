@@ -6,6 +6,8 @@ We'd love to have your content on Blåmba!
 Please [send a pull request](https://github.com/blamba-de/blamba-content-ingest/pulls) with your files to this repo.  
 If you have trouble converting the files, have other cool ideas or other cool assets, please [open an issue](https://github.com/blamba-de/blamba-content-ingest/issues/new).
 
+Ideally, sort your content into the folders by type and put it in a folder named after your nickname.
+
 ### Operator / group logos
 
 <img src="assets/logo596.gif" width="288">
