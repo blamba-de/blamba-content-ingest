@@ -1,0 +1,1 @@
+IevanPolka:d=4,o=5,b=450,l=15:f#,c#,p,f#,p,2f#,p,g#,a,a,f#,f#,f#,p,f#,a,2g#,2e,2e,2e,2g#,2f#,2f#,f#,f#,c#,p,f#,p,2f#,p,g#,a,p,f#,f#,p,f#,f#,a,c#6,c#6,c#6,h,a,a,2g#,2a,2f#,f#,p,f#,f#,2c#6,2c#6,2h,2a,2g#,e,2e,e,e,g#,h,h,h,h,a,a,g#,g#,2a,f#,2f#,2p,f#,2c#6,2c#6,2h,2a,2g#,e,2e,e,e,g#,h,h,h,h,a,a,g#,g#,2a,f#,2f#,2p
